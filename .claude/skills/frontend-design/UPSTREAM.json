@@ -1,0 +1,12 @@
+{
+  "name": "frontend-design",
+  "bucket": "use-now",
+  "repo": "anthropics/skills",
+  "source_path": "skills/frontend-design",
+  "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+  "source_url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design",
+  "skill_sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
+  "scripts": [],
+  "dynamic_commands": [],
+  "broken_relative_markdown_links": []
+}

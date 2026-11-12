@@ -1,0 +1,12 @@
+{
+  "name": "json-canvas",
+  "bucket": "use-now",
+  "repo": "kepano/obsidian-skills",
+  "source_path": "skills/json-canvas",
+  "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
+  "source_url": "https://github.com/kepano/obsidian-skills/tree/3ccff5338ea700537839b21900aa5358a0402c98/skills/json-canvas",
+  "skill_sha256": "97d1ae0728955c4203922753d5656890e5e4dd371b8306ea11884f9b510f1b85",
+  "scripts": [],
+  "dynamic_commands": [],
+  "broken_relative_markdown_links": []
+}

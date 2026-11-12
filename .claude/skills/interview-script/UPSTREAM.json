@@ -1,0 +1,12 @@
+{
+  "name": "interview-script",
+  "bucket": "use-now",
+  "repo": "phuryn/pm-skills",
+  "source_path": "pm-product-discovery/skills/interview-script",
+  "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+  "source_url": "https://github.com/phuryn/pm-skills/tree/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-product-discovery/skills/interview-script",
+  "skill_sha256": "892ca53da9852d4e6516d2305f0c0eb2db370bf39693c6c6797154b44bec9b4c",
+  "scripts": [],
+  "dynamic_commands": [],
+  "broken_relative_markdown_links": []
+}
