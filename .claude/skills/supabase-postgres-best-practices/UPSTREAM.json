@@ -1,0 +1,12 @@
+{
+  "name": "supabase-postgres-best-practices",
+  "bucket": "use-now",
+  "repo": "supabase/agent-skills",
+  "source_path": "skills/supabase-postgres-best-practices",
+  "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+  "source_url": "https://github.com/supabase/agent-skills/tree/c9be0e931b7930f7d02126d04774d904c381e7d7/skills/supabase-postgres-best-practices",
+  "skill_sha256": "ad65e776f45e761bafc609d3f506c77c1032225aa65e0c4c02f241b8071e5855",
+  "scripts": [],
+  "dynamic_commands": [],
+  "broken_relative_markdown_links": []
+}

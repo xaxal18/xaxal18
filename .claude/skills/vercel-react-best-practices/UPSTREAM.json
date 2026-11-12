@@ -1,0 +1,19 @@
+{
+  "name": "vercel-react-best-practices",
+  "bucket": "use-now",
+  "repo": "vercel-labs/agent-skills",
+  "source_path": "skills/react-best-practices",
+  "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+  "source_url": "https://github.com/vercel-labs/agent-skills/tree/063bee94c3f4df8453406c830b0a7df0f2860278/skills/react-best-practices",
+  "skill_sha256": "71ed7794962fa6e803ee83030517b5b93a9f70fbfeb431ec4535c5480a8d8355",
+  "scripts": [],
+  "dynamic_commands": [],
+  "broken_relative_markdown_links": [
+    "AGENTS.md:./async-defer-await.md",
+    "AGENTS.md:./async-cheap-condition-before-await.md",
+    "AGENTS.md:./server-hoist-static-io.md"
+  ],
+  "local_patch": "Only three relative links in compiled AGENTS.md changed from ./X.md to ./rules/X.md. Original snapshot preserved in sources.",
+  "compiled_document_sha256": "1fe182a457585dc5d1f532beef4c956f2d071d452a1fa243602297c97b7eb7e4",
+  "broken_relative_markdown_links_after_patch": []
+}
